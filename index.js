@@ -9,3 +9,5 @@ function start(params) {
 }
 
 console.log(start("Dieter"));
+
+// Test ...

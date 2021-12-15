@@ -1,0 +1,24 @@
+{
+  "name": "01_testrepo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev-test": "nodemon dev-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/03-Projekt-Node/01_TestRepo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/03-Projekt-Node/01_TestRepo/issues"
+  },
+  "homepage": "https://github.com/03-Projekt-Node/01_TestRepo#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}

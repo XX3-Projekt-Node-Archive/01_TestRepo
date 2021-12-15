@@ -1,19 +1,9 @@
 // Das ist mein Workspace!
 
-// Hallo Ich xD
-// Hallo hier ist der Geist der vergangenen Weihnacht, das ist schön!
-
-function start(params) {
-    return "Ich bin der " + params +"!"
-    
+function test(name) {
+    return name;
 }
 
-console.log(start("Dieter"));
 
-// Test ...
+console.log(test("Hallo"));
 
-
-//123
-//geht immer noch :P
-
-// Super Kommentar!

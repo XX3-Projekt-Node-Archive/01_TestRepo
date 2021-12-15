@@ -15,3 +15,5 @@ console.log(start("Dieter"));
 
 //123
 //geht immer noch :P
+
+// Super Kommentar!

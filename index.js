@@ -11,3 +11,7 @@ function start(params) {
 console.log(start("Dieter"));
 
 // Test ...
+
+
+//123
+//geht immer noch :P
